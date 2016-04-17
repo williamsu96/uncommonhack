@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=4C:6A:93:C6:AE:81:A4:3A:D3:48:10:E0:ED:DA:31:80:15:72:4A:E4%3Bcom.example.domoa.uncommonhack
+
+    You can also add your credentials to an existing key, using this line:
+    4C:6A:93:C6:AE:81:A4:3A:D3:48:10:E0:ED:DA:31:80:15:72:4A:E4;com.example.domoa.uncommonhack
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyBAWmSG2eBgKy3ysXcE5b1aHgNaGAvd86k</string>
+</resources>
